@@ -1,0 +1,12 @@
+.navLeft {
+    background-color: #000;
+    height: calc(100vh - 76px)
+}
+
+
+
+@media (max-width: 900px) {
+    .navLeft {
+            height: auto
+    }
+}

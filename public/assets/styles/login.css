@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    text-decoration: none;
+    background-image: url("../images/fondo1.jpg");
+    transition: background-image 2s;
+    min-height: 100vh;
+}
+
+
+
+.margin-vertical{
+    margin-top: 10%;
+    
+
+}
+
+.negro{
+    border: dashed 1px black;
+}
+
+.formulario{
+    background-color: white;
+    border-radius: 10px;
+    height: 300px;
+    opacity: 0.95;
+}
+
+
+.centrar{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    
+}
